@@ -1,0 +1,23 @@
+body, .tan_bg{
+    background-color: #fdfbde;
+}
+.jumbotron{
+    background-image: url(../imgs/cupcake_row.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 550px;;
+}
+.cakes{
+    color: #ffffff;
+}
+.header_pink{
+    background-color: #fc7b97;
+}
+li{
+    list-style-type: none;
+}
+.cursive_font{
+    font-family: 'Leckerli One', cursive;
+
+}
